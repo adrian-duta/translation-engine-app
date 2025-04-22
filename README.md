@@ -16,7 +16,8 @@ The app also includes a robust evaluation feature, allowing users to compare tra
   
   Both runs include full translations for all supported languages and models as well as evaluation metrics. The CSV files generated from these two runs are stored in the `translation_runs` folder to help you better understand the app's performance.
 
-- **Quick Tutorial Video**: A video file named `quick_tutorial` is included to offer a visual guide on how the app looks and works, demonstrating key functionalities and user interactions.
+- **Quick Tutorial Video**: A video file named quick_tutorial.mp4 (76 MB) is included to offer a visual guide on how the app looks and works, demonstrating key functionalities and user interactions.
+To view it, you can download the raw file from the repository and watch it locally on your device.
 
 - **App Source Files**: The repository includes all app-related Python files (e.g., `app.py`, `translation.py`, and `requirements.txt`), offering full insight into the implementation.
 
