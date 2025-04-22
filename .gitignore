@@ -1,0 +1,64 @@
+# python-specific ignores
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+
+# environment variables (sensitive data)
+.env
+
+# log files
+translation_debug.log
+*.log
+
+# generated output files
+*.csv
+scraped_text.txt
+
+# but not the ones inside translation_runs/
+!translation_runs/*.csv
+
+# streamlit-specific ignores
+.streamlit/
+*.db
+
+# selenium/webdriver-related ignores
+chromedriver
+geckodriver
+*.exe
+selenium-screenshot-*.png
+webdriver_manager/
+
+# virtual environment directories
+venv/
+.env/
+virtualenv/
+env/
+
+# ide and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# operating system files
+.DS_Store
+Thumbs.db
+
+# package manager caches
+pip-wheel-metadata/
+.pip_cache/
+.pypirc
+
+# testing and coverage reports
+.coverage
+coverage.xml
+*.cover
+htmlcov/
+pytest_cache/
+
+# miscellaneous
+*.bak
+*.swp
+*~
