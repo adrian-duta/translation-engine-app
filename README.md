@@ -7,7 +7,7 @@ The **Translation Engine App** is a powerful, web-based tool built with Streamli
 
 The app also includes a robust evaluation feature, allowing users to compare translations against Google Translate using metrics like BLEU, METEOR, Fluency Score, and Word Matching Percentage. Whether you're translating user-input text or scraping content from websites (e.g., BrokerChooser), this app provides a flexible and efficient solution for multilingual needs.
 
-![App Screenshot](assets/translation_app_image.png)
+![App Screenshot](assets/translation_app_image.PNG)
 
 **Additional Attachments and Documentation:**
 - **Brief Report**: A file titled `brief_report.pdf` is provided that contains a detailed summary of the app’s performance analysis. This report is based on two complete test runs:
